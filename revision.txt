@@ -1,1 +1,1 @@
-Revision 489: Updated debian packaging files
+Revision 490: Fixed crash if some initialization succeeded and some didn't, thanks to Dongwon Kang
