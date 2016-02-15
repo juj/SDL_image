@@ -1,1 +1,1 @@
-Revision 490: Fixed crash if some initialization succeeded and some didn't, thanks to Dongwon Kang
+Revision 491: Fixed linking with libpng installed in a non-standard location
