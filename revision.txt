@@ -1,1 +1,1 @@
-Revision 491: Fixed linking with libpng installed in a non-standard location
+Revision 492: Fixed bug 3474 - IMG_tif leaks memory on errors
