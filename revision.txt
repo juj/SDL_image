@@ -1,1 +1,1 @@
-Revision 493: Fixed bug 3475 - Remove unnecessary loop from IMG_tif.c
+Revision 494: Fixed bug 3481 - Configure fails to detect dynamic library support on powerpc64le
