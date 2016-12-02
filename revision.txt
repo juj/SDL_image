@@ -1,1 +1,1 @@
-Revision 494: Fixed bug 3481 - Configure fails to detect dynamic library support on powerpc64le
+Revision 495: Fixed warning about reserved macros with a leading underscore
