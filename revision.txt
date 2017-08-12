@@ -1,1 +1,1 @@
-Revision 496: Updated copyright for 2017
+Revision 497: Fixed bug 3108 - JPEG Assembly using Android API 21
